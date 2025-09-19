@@ -9,7 +9,7 @@ def main():
     board = """\
 R...
 .K..
-..P.
+..P..
 ....\
 """
     print("Example 1:")
